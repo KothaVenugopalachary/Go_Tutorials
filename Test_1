@@ -1,0 +1,8 @@
+// This is the first go file
+
+package main
+import "fmt"
+func main()
+{
+    fmt.println('Hello world')
+}
